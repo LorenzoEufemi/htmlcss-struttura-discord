@@ -12,7 +12,7 @@
 
     border: 1px solid black
 }
-
+/* header */
 
 .header {
     background-color: blue;
@@ -47,6 +47,8 @@
     display: flex;
     justify-content: center;
 }
+
+/* main */
 
 .col-70 {
     background-color: lightskyblue;
@@ -88,4 +90,19 @@
 }
 .section4 {
     background-color: lightgray;
+}
+
+/* footer */
+
+.footer {
+    background-color: black;
+
+}
+.blocco1 {
+    background-color: lightcoral;
+
+}
+.same {
+    width: calc(70%/4);
+    background-color: cadetblue;
 }
